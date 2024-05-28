@@ -1,0 +1,7 @@
+Django>=3.2,<4.0
+djangorestframework
+djangorestframework_simplejwt
+gunicorn
+psycopg2-binary
+channels>=3.0,<4.0
+channels-redis>=3.0,<4.0
